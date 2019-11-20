@@ -1,0 +1,4 @@
+# Calculate quantity flow variables from indicator variables for weighting/aggregation,,,,,,
+newvar,var1,var2,operation,unit_conversion,unit,join_byvars
+sales_weighted_intensity_new,Energy intensity (new vehicles),Sales (new vehicles),*,1,million MJ-vehicles per vkm,"Model,Scenario,Region,Mode,Technology,Fuel,year"
+energy_weighted_price,Price,Energy,*,1,million USD(2010) * 34.2,"Model,Scenario,Region,year"

@@ -1,0 +1,43 @@
+Service,Mode,Vehicle_type,rev_Service,rev_Mode,rev_Vehicle_type
+Freight,Rail,All,All,All,All
+Freight,Road,All,All,All,All
+Freight,Road,Heavy truck,All,All,All
+Freight,Road,Light truck,All,All,All
+Freight,Road,Medium truck,All,All,All
+Freight,Ship,All,All,All,All
+Passenger,Air,All,All,All,All
+Passenger,Rail,All,All,All,All
+Passenger,Road,All,All,All,All
+Passenger,Road,2W+3W,All,All,All
+Passenger,Road,Bus,All,All,All
+Passenger,Road,LDV,All,All,All
+Freight,Rail,All,Freight,All,All
+Freight,Road,All,Freight,All,All
+Freight,Road,Heavy truck,Freight,All,All
+Freight,Road,Light truck,Freight,All,All
+Freight,Road,Medium truck,Freight,All,All
+Freight,Ship,All,Freight,All,All
+Passenger,Air,All,Passenger,All,All
+Passenger,Rail,All,Passenger,All,All
+Passenger,Road,All,Passenger,All,All
+Passenger,Road,2W+3W,Passenger,All,All
+Passenger,Road,Bus,Passenger,All,All
+Passenger,Road,LDV,Passenger,All,All
+Freight,Road,Heavy truck,Freight,Road,All
+Freight,Road,Light truck,Freight,Road,All
+Freight,Road,Medium truck,Freight,Road,All
+Passenger,Road,2W+3W,Passenger,Road,All
+Passenger,Road,Bus,Passenger,Road,All
+Passenger,Road,LDV,Passenger,Road,All
+Freight,Rail,All,All,Rail,All
+Freight,Road,All,All,Road,All
+Freight,Road,Heavy truck,All,Road,All
+Freight,Road,Light truck,All,Road,All
+Freight,Road,Medium truck,All,Road,All
+Freight,Ship,All,All,Ship,All
+Passenger,Air,All,All,Air,All
+Passenger,Rail,All,All,Rail,All
+Passenger,Road,All,All,Road,All
+Passenger,Road,2W+3W,All,Road,All
+Passenger,Road,Bus,All,Road,All
+Passenger,Road,LDV,All,Road,All

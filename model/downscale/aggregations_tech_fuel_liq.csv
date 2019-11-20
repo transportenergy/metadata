@@ -1,0 +1,20 @@
+Technology,Fuel,Liquid_fuel_type,rev_Technology,rev_Fuel,rev_Liquid_fuel_type
+Liquid,Liquid,All,All,All,All
+Liquid,Liquid,NA,All,All,All
+Liquid,Liquid,Liquid biofuels,All,All,All
+Liquid,Liquid,Petroleum fuels,All,All,All
+Liquid,Liquid,Synthetic fuels,All,All,All
+Electric,Electricity,NA,All,All,All
+Natural gas,Natural gas,NA,All,All,All
+Hydrogen,Hydrogen,NA,All,All,All
+All,All,NA,All,All,All
+PHEV,Liquids and Electricity,NA,All,All,All
+PHEV,Liquid,All,All,All,All
+PHEV,Electricity,NA,All,All,All
+Liquid,Liquid,Liquid biofuels,Liquid,Liquid,All
+Liquid,Liquid,Petroleum fuels,Liquid,Liquid,All
+Liquid,Liquid,Synthetic fuels,Liquid,Liquid,All
+Liquid,Liquid,NA,Liquid,Liquid,All
+PHEV,Liquids and Electricity,NA,All,All,All
+PHEV,Liquid,All,All,Liquid,All
+PHEV,Electricity,NA,All,Electricity,All

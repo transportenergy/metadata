@@ -1,0 +1,16 @@
+Mode,Service,Vehicle_type,elasticity
+Air,Passenger,All,1.1
+All (if no detail),All (if no detail),All (if no detail),0.5
+Rail,All (if no detail),All,0.5
+Rail,Freight,All,0.5
+Rail,Passenger,All,0.5
+Road,All (if no detail),All (if no detail),0.4
+Road,Freight,All (if no detail),0.8
+Road,Freight,Heavy truck,0.8
+Road,Freight,Light truck,0.8
+Road,Freight,Medium truck,0.8
+Road,Passenger,All (if no detail),0.5
+Road,Passenger,2W+3W,0.3
+Road,Passenger,Bus,0.3
+Road,Passenger,LDV,0.6
+Ship,Freight,All,0.5
