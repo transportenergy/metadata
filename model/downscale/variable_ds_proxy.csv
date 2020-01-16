@@ -16,7 +16,7 @@ Sales (used vehicles),quantity,TRANSPORTENERGY
 sales_weighted_intensity_new,quantity,TRANSPORTENERGY
 Stock,quantity,TRANSPORTENERGY
 BC Emissions,quantity,TRANSPORTENERGY
-CO2 emissions (ttw),quantity,TRANSPORTENERGY
-CO2 emissions (wtw),quantity,TRANSPORTENERGY
+CO2 Emissions (ttw),quantity,TRANSPORTENERGY
+CO2 Emissions (wtw),quantity,TRANSPORTENERGY
 NOx Emissions,quantity,TRANSPORTENERGY
 PM2.5 Emissions,quantity,TRANSPORTENERGY
