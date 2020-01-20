@@ -1,11 +1,17 @@
 T000:
   url: https://stats.oecd.org/index.aspx?queryid=79863
-  name: Passenger transport: Inland passenger transport
+  name: "Passenger transport: Inland passenger transport"
   active: true
 
 T001:
-  url: https://stats.oecd.org/Index.aspx?DataSetCode=ITF_GOODS_TRANSPORT
   name: Coastal Transport
+  fetch:
+    type: sdmx
+    args:
+      source: OECD
+      resource_id: ITF_GOODS_TRANSPORT
+      key: .T-SEA-CAB
+      validate: false
   active: true
 
 T002:
@@ -19,8 +25,7 @@ T003:
   active: true
 
 T004:
-  url: https://w3.unece.org/PXWeb2015/pxweb/en/STAT/STAT__40-TRTRANS__03-TRRoadFleet/
-08_en_TRRoadNewVehF_r.px/?rxid=674effaa-3926-4d2e-9d6d-abfd7dd196b8
+  url: https://w3.unece.org/PXWeb2015/pxweb/en/STAT/STAT__40-TRTRANS__03-TRRoadFleet/08_en_TRRoadNewVehF_r.px/?rxid=674effaa-3926-4d2e-9d6d-abfd7dd196b8
   name: New Road Vehicle Registrations by Vehicle Category and Fuel Type
   active: true
 
@@ -102,7 +107,7 @@ T023:
 
 T024:
   url: https://datasource.kapsarc.org/explore/dataset/supply-transformation-and-consumption-of-renewable-energies-annual-data/information/?disjunctive.date&disjunctive.frequency
-  name:Supply, transformation and consumption of renewable energies
+  name: Supply, transformation and consumption of renewable energies
 
 T025:
   url: https://edgar.jrc.ec.europa.eu/overview.php?v=50_GHG
