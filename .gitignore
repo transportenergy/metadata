@@ -2,3 +2,6 @@
 historical/da_*.csv
 # Fetched input data
 historical/input/T???.csv
+
+# macOS autocreate File
+.DS_Store
