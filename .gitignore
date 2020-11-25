@@ -1,0 +1,11 @@
+# Cache of OpenKAPSARC data
+historical/da_*.csv
+
+# Fetched input data
+historical/input/T???.csv
+
+# Generated output
+historical/output
+
+# macOS autocreate File
+.DS_Store
