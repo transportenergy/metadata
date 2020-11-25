@@ -1,0 +1,252 @@
+# iTEM2 (generated from map_cntry_region_ALL.csv)
+Africa:
+  countries:
+  - AGO
+  - BDI
+  - BEN
+  - BFA
+  - BWA
+  - CAF
+  - CIV
+  - CMR
+  - COD
+  - COG
+  - COM
+  - CPV
+  - DJI
+  - DZA
+  - ERI
+  - ETH
+  - GAB
+  - GHA
+  - GIN
+  - GMB
+  - GNB
+  - GNQ
+  - KEN
+  - LBR
+  - LBY
+  - LSO
+  - MAR
+  - MDG
+  - MLI
+  - MOZ
+  - MRT
+  - MUS
+  - MWI
+  - NAM
+  - NER
+  - NGA
+  - RWA
+  - SDN
+  - SEN
+  - SLE
+  - SOM
+  - SSD
+  - STP
+  - SWZ
+  - SYC
+  - TCD
+  - TGO
+  - TUN
+  - TZA
+  - UGA
+  - ZAF
+  - ZMB
+  - ZWE
+
+Australia:
+  countries:
+  - AUS
+
+Brazil:
+  countries:
+  - BRA
+
+Canada:
+  countries:
+  - CAN
+
+China:
+  countries:
+  - CHN
+  - HKG
+  - MAC
+  - TWN
+
+EU-27:
+  countries:
+  - AUT
+  - BEL
+  - BGR
+  - CYP
+  - CZE
+  - DEU
+  - DNK
+  - ESP
+  - EST
+  - FIN
+  - FRA
+  - GBR
+  - GRC
+  - HRV
+  - HUN
+  - IRL
+  - ITA
+  - LTU
+  - LUX
+  - LVA
+  - MLT
+  - NLD
+  - POL
+  - PRT
+  - ROM
+  - ROU
+  - SVK
+  - SVN
+  - SWE
+
+India:
+  countries:
+  - IND
+
+Japan:
+  countries:
+  - JPN
+
+Mexico:
+  countries:
+  - MEX
+
+Middle East:
+  countries:
+  - ARE
+  - BHR
+  - EGY
+  - IRN
+  - IRQ
+  - ISR
+  - JOR
+  - KWT
+  - LBN
+  - OMN
+  - PSE
+  - QAT
+  - SAU
+  - SYR
+  - TUR
+  - YEM
+
+Non-EU Europe:
+  countries:
+  - ALB
+  - ARM
+  - AZE
+  - BIH
+  - BLR
+  - CHE
+  - CHI
+  - GEO
+  - ISL
+  - LIE
+  - MDA
+  - MKD
+  - MNE
+  - NOR
+  - SCG
+  - SRB
+  - UKR
+
+Other Asia-Pacific:
+  countries:
+  - AFG
+  - ASM
+  - BGD
+  - BRN
+  - BTN
+  - FJI
+  - FSM
+  - IDN
+  - KAZ
+  - KGZ
+  - KHM
+  - KIR
+  - LAO
+  - LKA
+  - MDV
+  - MMR
+  - MNG
+  - MYS
+  - NCL
+  - NPL
+  - NZL
+  - PAK
+  - PHL
+  - PLW
+  - PNG
+  - PRK
+  - PYF
+  - SGP
+  - SLB
+  - THA
+  - TJK
+  - TKM
+  - TLS
+  - TON
+  - UZB
+  - VNM
+  - VUT
+  - WSM
+
+Other Latin America:
+  countries:
+  - ABW
+  - ARG
+  - ATG
+  - BHS
+  - BLZ
+  - BMU
+  - BOL
+  - BRB
+  - CHL
+  - COL
+  - CRI
+  - CUB
+  - CYM
+  - DMA
+  - DOM
+  - ECU
+  - GRD
+  - GTM
+  - GUY
+  - HND
+  - HTI
+  - JAM
+  - KNA
+  - LCA
+  - NIC
+  - PAN
+  - PER
+  - PRY
+  - SLV
+  - SUR
+  - TTO
+  - URY
+  - VCT
+  - VEN
+  - VGB
+
+Russia:
+  countries:
+  - RUS
+
+South Korea:
+  countries:
+  - KOR
+
+U.S.:
+  countries:
+  - GUM
+  - PRI
+  - USA
+  - VIR
