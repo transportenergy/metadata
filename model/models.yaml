@@ -5,7 +5,7 @@ bp:
 eia:
   format: xlsx
   org: United States Department of Energy (DoE) Energy Information Administration (EIA)
-  versions: [2]
+  versions: [2, 3]
 
 eppa5:
   citation: |
@@ -45,7 +45,7 @@ gcam:
     	year = {2013}
     }
   format: csv
-  versions: [1, 2]
+  versions: [1, 2, 3]
 
 get:
   format: xlsx
@@ -107,11 +107,11 @@ roadmap:
     }
   format: csv
   org: International Council on Clean Transportation (ICCT)
-  versions: [1, 2]
+  versions: [1, 2, 3]
 
 shell:
   format: null
-  versions: [2]
+  versions: [2, 3]
 
 statoil:
   format: null

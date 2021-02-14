@@ -11,3 +11,13 @@
 
   'Fuel efficiency and e-drive':
     category: policy
+
+3:
+  ICE+EV Policy Potential (AGIS):
+    category: policy
+  ICE+EV Policy Potential (MGIS):
+    category: policy
+  ICE Policy Potential:
+    category: policy
+  With Currently Adopted Policies:
+    category: reference
