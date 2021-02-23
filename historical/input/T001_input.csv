@@ -61,10 +61,11 @@
 "SWE","Sweden","T-SEA-CAB","Coastal shipping (national transport)","2012","2012","TONNEKM","Tonnes-kilometres","6","Millions",,,6892,,
 "SWE","Sweden","T-SEA-CAB","Coastal shipping (national transport)","2013","2013","TONNEKM","Tonnes-kilometres","6","Millions",,,6764,,
 "SWE","Sweden","T-SEA-CAB","Coastal shipping (national transport)","2014","2014","TONNEKM","Tonnes-kilometres","6","Millions",,,6663,,
-"SWE","Sweden","T-SEA-CAB","Coastal shipping (national transport)","2015","2015","TONNEKM","Tonnes-kilometres","6","Millions",,,6814,,
-"SWE","Sweden","T-SEA-CAB","Coastal shipping (national transport)","2016","2016","TONNEKM","Tonnes-kilometres","6","Millions",,,6194,"B","Break"
-"SWE","Sweden","T-SEA-CAB","Coastal shipping (national transport)","2017","2017","TONNEKM","Tonnes-kilometres","6","Millions",,,6472,,
-"SWE","Sweden","T-SEA-CAB","Coastal shipping (national transport)","2018","2018","TONNEKM","Tonnes-kilometres","6","Millions",,,6995,,
+"SWE","Sweden","T-SEA-CAB","Coastal shipping (national transport)","2015","2015","TONNEKM","Tonnes-kilometres","6","Millions",,,7220.91,"B","Break"
+"SWE","Sweden","T-SEA-CAB","Coastal shipping (national transport)","2016","2016","TONNEKM","Tonnes-kilometres","6","Millions",,,7002.14,,
+"SWE","Sweden","T-SEA-CAB","Coastal shipping (national transport)","2017","2017","TONNEKM","Tonnes-kilometres","6","Millions",,,7140.64,,
+"SWE","Sweden","T-SEA-CAB","Coastal shipping (national transport)","2018","2018","TONNEKM","Tonnes-kilometres","6","Millions",,,7570.2,,
+"SWE","Sweden","T-SEA-CAB","Coastal shipping (national transport)","2019","2019","TONNEKM","Tonnes-kilometres","6","Millions",,,7749.77,,
 "EST","Estonia","T-SEA-CAB","Coastal shipping (national transport)","1970","1970","TONNEKM","Tonnes-kilometres","6","Millions",,,75,,
 "EST","Estonia","T-SEA-CAB","Coastal shipping (national transport)","1971","1971","TONNEKM","Tonnes-kilometres","6","Millions",,,72,,
 "EST","Estonia","T-SEA-CAB","Coastal shipping (national transport)","1972","1972","TONNEKM","Tonnes-kilometres","6","Millions",,,50,,
@@ -113,7 +114,8 @@
 "EST","Estonia","T-SEA-CAB","Coastal shipping (national transport)","2015","2015","TONNEKM","Tonnes-kilometres","6","Millions",,,1,,
 "EST","Estonia","T-SEA-CAB","Coastal shipping (national transport)","2016","2016","TONNEKM","Tonnes-kilometres","6","Millions",,,0,,
 "EST","Estonia","T-SEA-CAB","Coastal shipping (national transport)","2017","2017","TONNEKM","Tonnes-kilometres","6","Millions",,,0,,
-"EST","Estonia","T-SEA-CAB","Coastal shipping (national transport)","2018","2018","TONNEKM","Tonnes-kilometres","6","Millions",,,0,,
+"EST","Estonia","T-SEA-CAB","Coastal shipping (national transport)","2018","2018","TONNEKM","Tonnes-kilometres","6","Millions",,,5,,
+"EST","Estonia","T-SEA-CAB","Coastal shipping (national transport)","2019","2019","TONNEKM","Tonnes-kilometres","6","Millions",,,14,,
 "KOR","Korea","T-SEA-CAB","Coastal shipping (national transport)","2001","2001","TONNEKM","Tonnes-kilometres","6","Millions",,,36443,,
 "KOR","Korea","T-SEA-CAB","Coastal shipping (national transport)","2002","2002","TONNEKM","Tonnes-kilometres","6","Millions",,,38171,,
 "KOR","Korea","T-SEA-CAB","Coastal shipping (national transport)","2003","2003","TONNEKM","Tonnes-kilometres","6","Millions",,,33884,,
@@ -131,6 +133,7 @@
 "KOR","Korea","T-SEA-CAB","Coastal shipping (national transport)","2015","2015","TONNEKM","Tonnes-kilometres","6","Millions",,,31841,,
 "KOR","Korea","T-SEA-CAB","Coastal shipping (national transport)","2016","2016","TONNEKM","Tonnes-kilometres","6","Millions",,,37036,,
 "KOR","Korea","T-SEA-CAB","Coastal shipping (national transport)","2017","2017","TONNEKM","Tonnes-kilometres","6","Millions",,,33855,,
+"KOR","Korea","T-SEA-CAB","Coastal shipping (national transport)","2018","2018","TONNEKM","Tonnes-kilometres","6","Millions",,,28282,,
 "HRV","Croatia","T-SEA-CAB","Coastal shipping (national transport)","1970","1970","TONNEKM","Tonnes-kilometres","6","Millions",,,237,,
 "HRV","Croatia","T-SEA-CAB","Coastal shipping (national transport)","1971","1971","TONNEKM","Tonnes-kilometres","6","Millions",,,304,,
 "HRV","Croatia","T-SEA-CAB","Coastal shipping (national transport)","1972","1972","TONNEKM","Tonnes-kilometres","6","Millions",,,357,,
@@ -180,6 +183,7 @@
 "HRV","Croatia","T-SEA-CAB","Coastal shipping (national transport)","2016","2016","TONNEKM","Tonnes-kilometres","6","Millions",,,212,,
 "HRV","Croatia","T-SEA-CAB","Coastal shipping (national transport)","2017","2017","TONNEKM","Tonnes-kilometres","6","Millions",,,208,,
 "HRV","Croatia","T-SEA-CAB","Coastal shipping (national transport)","2018","2018","TONNEKM","Tonnes-kilometres","6","Millions",,,195,,
+"HRV","Croatia","T-SEA-CAB","Coastal shipping (national transport)","2019","2019","TONNEKM","Tonnes-kilometres","6","Millions",,,197,,
 "USA","United States","T-SEA-CAB","Coastal shipping (national transport)","1978","1978","TONNEKM","Tonnes-kilometres","6","Millions",,,788930,,
 "USA","United States","T-SEA-CAB","Coastal shipping (national transport)","1979","1979","TONNEKM","Tonnes-kilometres","6","Millions",,,777129,,
 "USA","United States","T-SEA-CAB","Coastal shipping (national transport)","1980","1980","TONNEKM","Tonnes-kilometres","6","Millions",,,921460,,
@@ -217,8 +221,10 @@
 "USA","United States","T-SEA-CAB","Coastal shipping (national transport)","2012","2012","TONNEKM","Tonnes-kilometres","6","Millions",,,229349,,
 "USA","United States","T-SEA-CAB","Coastal shipping (national transport)","2013","2013","TONNEKM","Tonnes-kilometres","6","Millions",,,239158,,
 "USA","United States","T-SEA-CAB","Coastal shipping (national transport)","2014","2014","TONNEKM","Tonnes-kilometres","6","Millions",,,251801,,
-"USA","United States","T-SEA-CAB","Coastal shipping (national transport)","2015","2015","TONNEKM","Tonnes-kilometres","6","Millions",,,256376.2493,,
-"USA","United States","T-SEA-CAB","Coastal shipping (national transport)","2016","2016","TONNEKM","Tonnes-kilometres","6","Millions",,,250689.9491,,
+"USA","United States","T-SEA-CAB","Coastal shipping (national transport)","2015","2015","TONNEKM","Tonnes-kilometres","6","Millions",,,256376.24929512,,
+"USA","United States","T-SEA-CAB","Coastal shipping (national transport)","2016","2016","TONNEKM","Tonnes-kilometres","6","Millions",,,250689.94910318,,
+"USA","United States","T-SEA-CAB","Coastal shipping (national transport)","2017","2017","TONNEKM","Tonnes-kilometres","6","Millions",,,256955,,
+"USA","United States","T-SEA-CAB","Coastal shipping (national transport)","2018","2018","TONNEKM","Tonnes-kilometres","6","Millions",,,253451,,
 "AUT","Austria","T-SEA-CAB","Coastal shipping (national transport)","1970","1970","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "AUT","Austria","T-SEA-CAB","Coastal shipping (national transport)","1971","1971","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "AUT","Austria","T-SEA-CAB","Coastal shipping (national transport)","1972","1972","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
@@ -268,6 +274,7 @@
 "AUT","Austria","T-SEA-CAB","Coastal shipping (national transport)","2016","2016","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "AUT","Austria","T-SEA-CAB","Coastal shipping (national transport)","2017","2017","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "AUT","Austria","T-SEA-CAB","Coastal shipping (national transport)","2018","2018","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"AUT","Austria","T-SEA-CAB","Coastal shipping (national transport)","2019","2019","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "LIE","Liechtenstein","T-SEA-CAB","Coastal shipping (national transport)","1970","1970","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "LIE","Liechtenstein","T-SEA-CAB","Coastal shipping (national transport)","1971","1971","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "LIE","Liechtenstein","T-SEA-CAB","Coastal shipping (national transport)","1972","1972","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
@@ -317,6 +324,7 @@
 "LIE","Liechtenstein","T-SEA-CAB","Coastal shipping (national transport)","2016","2016","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "LIE","Liechtenstein","T-SEA-CAB","Coastal shipping (national transport)","2017","2017","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "LIE","Liechtenstein","T-SEA-CAB","Coastal shipping (national transport)","2018","2018","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"LIE","Liechtenstein","T-SEA-CAB","Coastal shipping (national transport)","2019","2019","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "BLR","Belarus","T-SEA-CAB","Coastal shipping (national transport)","1970","1970","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "BLR","Belarus","T-SEA-CAB","Coastal shipping (national transport)","1971","1971","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "BLR","Belarus","T-SEA-CAB","Coastal shipping (national transport)","1972","1972","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
@@ -366,102 +374,7 @@
 "BLR","Belarus","T-SEA-CAB","Coastal shipping (national transport)","2016","2016","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "BLR","Belarus","T-SEA-CAB","Coastal shipping (national transport)","2017","2017","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "BLR","Belarus","T-SEA-CAB","Coastal shipping (national transport)","2018","2018","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","1970","1970","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","1971","1971","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","1972","1972","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","1973","1973","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","1974","1974","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","1975","1975","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","1976","1976","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","1977","1977","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","1978","1978","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","1979","1979","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","1980","1980","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","1981","1981","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","1982","1982","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","1983","1983","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","1984","1984","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","1985","1985","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","1986","1986","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","1987","1987","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","1988","1988","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","1989","1989","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","1990","1990","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","1991","1991","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","1992","1992","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","1993","1993","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","1994","1994","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","1995","1995","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","1996","1996","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","1997","1997","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","1998","1998","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","1999","1999","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","2000","2000","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","2001","2001","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","2002","2002","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","2003","2003","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","2004","2004","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","2005","2005","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","2006","2006","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","2007","2007","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","2008","2008","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","2009","2009","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","2010","2010","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","2011","2011","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","2012","2012","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","2013","2013","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","2014","2014","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","2015","2015","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","2016","2016","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","2017","2017","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"GRC","Greece","T-SEA-CAB","Coastal shipping (national transport)","2018","2018","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","1970","1970","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","1971","1971","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","1972","1972","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","1973","1973","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","1974","1974","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","1975","1975","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","1976","1976","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","1977","1977","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","1978","1978","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","1979","1979","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","1980","1980","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","1981","1981","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","1982","1982","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","1983","1983","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","1984","1984","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","1985","1985","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","1986","1986","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","1987","1987","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","1988","1988","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","1989","1989","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","1990","1990","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","1991","1991","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","1992","1992","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","1993","1993","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","1994","1994","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","1995","1995","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","1996","1996","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","1997","1997","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","1998","1998","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","1999","1999","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","2000","2000","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","2001","2001","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","2002","2002","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","2003","2003","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","2004","2004","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","2005","2005","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","2006","2006","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","2007","2007","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","2008","2008","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","2009","2009","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","2010","2010","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","2011","2011","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","2012","2012","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","2013","2013","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","2014","2014","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","2015","2015","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"MNE","Montenegro, Republic of","T-SEA-CAB","Coastal shipping (national transport)","2016","2016","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"BLR","Belarus","T-SEA-CAB","Coastal shipping (national transport)","2019","2019","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "BGR","Bulgaria","T-SEA-CAB","Coastal shipping (national transport)","1970","1970","TONNEKM","Tonnes-kilometres","6","Millions",,,24,,
 "BGR","Bulgaria","T-SEA-CAB","Coastal shipping (national transport)","1971","1971","TONNEKM","Tonnes-kilometres","6","Millions",,,11,,
 "BGR","Bulgaria","T-SEA-CAB","Coastal shipping (national transport)","1972","1972","TONNEKM","Tonnes-kilometres","6","Millions",,,9,,
@@ -505,6 +418,33 @@
 "UKR","Ukraine","T-SEA-CAB","Coastal shipping (national transport)","2007","2007","TONNEKM","Tonnes-kilometres","6","Millions",,,770,,
 "UKR","Ukraine","T-SEA-CAB","Coastal shipping (national transport)","2011","2011","TONNEKM","Tonnes-kilometres","6","Millions",,,2747,,
 "UKR","Ukraine","T-SEA-CAB","Coastal shipping (national transport)","2012","2012","TONNEKM","Tonnes-kilometres","6","Millions",,,1702,,
+"ARM","Armenia","T-SEA-CAB","Coastal shipping (national transport)","1970","1970","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"ARM","Armenia","T-SEA-CAB","Coastal shipping (national transport)","1971","1971","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"ARM","Armenia","T-SEA-CAB","Coastal shipping (national transport)","1972","1972","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"ARM","Armenia","T-SEA-CAB","Coastal shipping (national transport)","1973","1973","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"ARM","Armenia","T-SEA-CAB","Coastal shipping (national transport)","1974","1974","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"ARM","Armenia","T-SEA-CAB","Coastal shipping (national transport)","1975","1975","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"ARM","Armenia","T-SEA-CAB","Coastal shipping (national transport)","1976","1976","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"ARM","Armenia","T-SEA-CAB","Coastal shipping (national transport)","1977","1977","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"ARM","Armenia","T-SEA-CAB","Coastal shipping (national transport)","1978","1978","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"ARM","Armenia","T-SEA-CAB","Coastal shipping (national transport)","1979","1979","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"ARM","Armenia","T-SEA-CAB","Coastal shipping (national transport)","1980","1980","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"ARM","Armenia","T-SEA-CAB","Coastal shipping (national transport)","1981","1981","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"ARM","Armenia","T-SEA-CAB","Coastal shipping (national transport)","1982","1982","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"ARM","Armenia","T-SEA-CAB","Coastal shipping (national transport)","1983","1983","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"ARM","Armenia","T-SEA-CAB","Coastal shipping (national transport)","1984","1984","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"ARM","Armenia","T-SEA-CAB","Coastal shipping (national transport)","1985","1985","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"ARM","Armenia","T-SEA-CAB","Coastal shipping (national transport)","1986","1986","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"ARM","Armenia","T-SEA-CAB","Coastal shipping (national transport)","1987","1987","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"ARM","Armenia","T-SEA-CAB","Coastal shipping (national transport)","1988","1988","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"ARM","Armenia","T-SEA-CAB","Coastal shipping (national transport)","1989","1989","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"ARM","Armenia","T-SEA-CAB","Coastal shipping (national transport)","1990","1990","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"ARM","Armenia","T-SEA-CAB","Coastal shipping (national transport)","1991","1991","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"ARM","Armenia","T-SEA-CAB","Coastal shipping (national transport)","1992","1992","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"ARM","Armenia","T-SEA-CAB","Coastal shipping (national transport)","1993","1993","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"ARM","Armenia","T-SEA-CAB","Coastal shipping (national transport)","1994","1994","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"ARM","Armenia","T-SEA-CAB","Coastal shipping (national transport)","1995","1995","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"ARM","Armenia","T-SEA-CAB","Coastal shipping (national transport)","1996","1996","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "ARM","Armenia","T-SEA-CAB","Coastal shipping (national transport)","1997","1997","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "ARM","Armenia","T-SEA-CAB","Coastal shipping (national transport)","1998","1998","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "ARM","Armenia","T-SEA-CAB","Coastal shipping (national transport)","1999","1999","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
@@ -526,55 +466,8 @@
 "ARM","Armenia","T-SEA-CAB","Coastal shipping (national transport)","2015","2015","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "ARM","Armenia","T-SEA-CAB","Coastal shipping (national transport)","2016","2016","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "ARM","Armenia","T-SEA-CAB","Coastal shipping (national transport)","2017","2017","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","1970","1970","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","1971","1971","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","1972","1972","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","1973","1973","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","1974","1974","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","1975","1975","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","1976","1976","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","1977","1977","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","1978","1978","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","1979","1979","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","1980","1980","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","1981","1981","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","1982","1982","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","1983","1983","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","1984","1984","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","1985","1985","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","1986","1986","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","1987","1987","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","1988","1988","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","1989","1989","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","1990","1990","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","1991","1991","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","1992","1992","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","1993","1993","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","1994","1994","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","1995","1995","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","1996","1996","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","1997","1997","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","1998","1998","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","1999","1999","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","2000","2000","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","2001","2001","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","2002","2002","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","2003","2003","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","2004","2004","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","2005","2005","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","2006","2006","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","2007","2007","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","2008","2008","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","2009","2009","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","2010","2010","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","2011","2011","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","2012","2012","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","2013","2013","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","2014","2014","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","2015","2015","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","2016","2016","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","2017","2017","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"LTU","Lithuania","T-SEA-CAB","Coastal shipping (national transport)","2018","2018","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"ARM","Armenia","T-SEA-CAB","Coastal shipping (national transport)","2018","2018","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"ARM","Armenia","T-SEA-CAB","Coastal shipping (national transport)","2019","2019","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "BEL","Belgium","T-SEA-CAB","Coastal shipping (national transport)","1970","1970","TONNEKM","Tonnes-kilometres","6","Millions",,,2702,,
 "BEL","Belgium","T-SEA-CAB","Coastal shipping (national transport)","1971","1971","TONNEKM","Tonnes-kilometres","6","Millions",,,2436,,
 "BEL","Belgium","T-SEA-CAB","Coastal shipping (national transport)","1972","1972","TONNEKM","Tonnes-kilometres","6","Millions",,,2292,,
@@ -633,6 +526,7 @@
 "RUS","Russian Federation","T-SEA-CAB","Coastal shipping (national transport)","2016","2016","TONNEKM","Tonnes-kilometres","6","Millions",,,12944,,
 "RUS","Russian Federation","T-SEA-CAB","Coastal shipping (national transport)","2017","2017","TONNEKM","Tonnes-kilometres","6","Millions",,,16596,,
 "RUS","Russian Federation","T-SEA-CAB","Coastal shipping (national transport)","2018","2018","TONNEKM","Tonnes-kilometres","6","Millions",,,28334,"B","Break"
+"RUS","Russian Federation","T-SEA-CAB","Coastal shipping (national transport)","2019","2019","TONNEKM","Tonnes-kilometres","6","Millions",,,20981,,
 "SVK","Slovak Republic","T-SEA-CAB","Coastal shipping (national transport)","1970","1970","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "SVK","Slovak Republic","T-SEA-CAB","Coastal shipping (national transport)","1971","1971","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "SVK","Slovak Republic","T-SEA-CAB","Coastal shipping (national transport)","1972","1972","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
@@ -682,6 +576,7 @@
 "SVK","Slovak Republic","T-SEA-CAB","Coastal shipping (national transport)","2016","2016","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "SVK","Slovak Republic","T-SEA-CAB","Coastal shipping (national transport)","2017","2017","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "SVK","Slovak Republic","T-SEA-CAB","Coastal shipping (national transport)","2018","2018","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"SVK","Slovak Republic","T-SEA-CAB","Coastal shipping (national transport)","2019","2019","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "FIN","Finland","T-SEA-CAB","Coastal shipping (national transport)","1970","1970","TONNEKM","Tonnes-kilometres","6","Millions",,,2360,,
 "FIN","Finland","T-SEA-CAB","Coastal shipping (national transport)","1971","1971","TONNEKM","Tonnes-kilometres","6","Millions",,,2358,,
 "FIN","Finland","T-SEA-CAB","Coastal shipping (national transport)","1972","1972","TONNEKM","Tonnes-kilometres","6","Millions",,,2893,,
@@ -731,6 +626,7 @@
 "FIN","Finland","T-SEA-CAB","Coastal shipping (national transport)","2016","2016","TONNEKM","Tonnes-kilometres","6","Millions",,,2170,,
 "FIN","Finland","T-SEA-CAB","Coastal shipping (national transport)","2017","2017","TONNEKM","Tonnes-kilometres","6","Millions",,,2270,,
 "FIN","Finland","T-SEA-CAB","Coastal shipping (national transport)","2018","2018","TONNEKM","Tonnes-kilometres","6","Millions",,,2800,,
+"FIN","Finland","T-SEA-CAB","Coastal shipping (national transport)","2019","2019","TONNEKM","Tonnes-kilometres","6","Millions",,,3006,,
 "ISL","Iceland","T-SEA-CAB","Coastal shipping (national transport)","1990","1990","TONNEKM","Tonnes-kilometres","6","Millions",,,266,,
 "ISL","Iceland","T-SEA-CAB","Coastal shipping (national transport)","1991","1991","TONNEKM","Tonnes-kilometres","6","Millions",,,290,,
 "ISL","Iceland","T-SEA-CAB","Coastal shipping (national transport)","1992","1992","TONNEKM","Tonnes-kilometres","6","Millions",,,207,,
@@ -830,6 +726,7 @@
 "CHE","Switzerland","T-SEA-CAB","Coastal shipping (national transport)","2016","2016","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "CHE","Switzerland","T-SEA-CAB","Coastal shipping (national transport)","2017","2017","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "CHE","Switzerland","T-SEA-CAB","Coastal shipping (national transport)","2018","2018","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"CHE","Switzerland","T-SEA-CAB","Coastal shipping (national transport)","2019","2019","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "MDA","Moldova","T-SEA-CAB","Coastal shipping (national transport)","1970","1970","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "MDA","Moldova","T-SEA-CAB","Coastal shipping (national transport)","1971","1971","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "MDA","Moldova","T-SEA-CAB","Coastal shipping (national transport)","1972","1972","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
@@ -879,6 +776,7 @@
 "MDA","Moldova","T-SEA-CAB","Coastal shipping (national transport)","2016","2016","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "MDA","Moldova","T-SEA-CAB","Coastal shipping (national transport)","2017","2017","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "MDA","Moldova","T-SEA-CAB","Coastal shipping (national transport)","2018","2018","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"MDA","Moldova","T-SEA-CAB","Coastal shipping (national transport)","2019","2019","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "AZE","Azerbaijan","T-SEA-CAB","Coastal shipping (national transport)","1970","1970","TONNEKM","Tonnes-kilometres","6","Millions",,,13138,,
 "AZE","Azerbaijan","T-SEA-CAB","Coastal shipping (national transport)","1971","1971","TONNEKM","Tonnes-kilometres","6","Millions",,,13386,,
 "AZE","Azerbaijan","T-SEA-CAB","Coastal shipping (national transport)","1972","1972","TONNEKM","Tonnes-kilometres","6","Millions",,,13138,,
@@ -899,7 +797,7 @@
 "AZE","Azerbaijan","T-SEA-CAB","Coastal shipping (national transport)","1987","1987","TONNEKM","Tonnes-kilometres","6","Millions",,,11793,,
 "AZE","Azerbaijan","T-SEA-CAB","Coastal shipping (national transport)","1988","1988","TONNEKM","Tonnes-kilometres","6","Millions",,,10797,,
 "AZE","Azerbaijan","T-SEA-CAB","Coastal shipping (national transport)","1989","1989","TONNEKM","Tonnes-kilometres","6","Millions",,,10001,,
-"AZE","Azerbaijan","T-SEA-CAB","Coastal shipping (national transport)","1990","1990","TONNEKM","Tonnes-kilometres","6","Millions",,,9870,"B","Break"
+"AZE","Azerbaijan","T-SEA-CAB","Coastal shipping (national transport)","1990","1990","TONNEKM","Tonnes-kilometres","6","Millions",,,9870,,
 "AZE","Azerbaijan","T-SEA-CAB","Coastal shipping (national transport)","1991","1991","TONNEKM","Tonnes-kilometres","6","Millions",,,9149,,
 "AZE","Azerbaijan","T-SEA-CAB","Coastal shipping (national transport)","1992","1992","TONNEKM","Tonnes-kilometres","6","Millions",,,5512,,
 "AZE","Azerbaijan","T-SEA-CAB","Coastal shipping (national transport)","1993","1993","TONNEKM","Tonnes-kilometres","6","Millions",,,4358,,
@@ -928,6 +826,7 @@
 "AZE","Azerbaijan","T-SEA-CAB","Coastal shipping (national transport)","2016","2016","TONNEKM","Tonnes-kilometres","6","Millions",,,3002,,
 "AZE","Azerbaijan","T-SEA-CAB","Coastal shipping (national transport)","2017","2017","TONNEKM","Tonnes-kilometres","6","Millions",,,4418,,
 "AZE","Azerbaijan","T-SEA-CAB","Coastal shipping (national transport)","2018","2018","TONNEKM","Tonnes-kilometres","6","Millions",,,4576,,
+"AZE","Azerbaijan","T-SEA-CAB","Coastal shipping (national transport)","2019","2019","TONNEKM","Tonnes-kilometres","6","Millions",,,3351,,
 "PRT","Portugal","T-SEA-CAB","Coastal shipping (national transport)","1989","1989","TONNEKM","Tonnes-kilometres","6","Millions",,,1582,,
 "PRT","Portugal","T-SEA-CAB","Coastal shipping (national transport)","1990","1990","TONNEKM","Tonnes-kilometres","6","Millions",,,1898,,
 "PRT","Portugal","T-SEA-CAB","Coastal shipping (national transport)","1991","1991","TONNEKM","Tonnes-kilometres","6","Millions",,,964,,
@@ -989,7 +888,8 @@
 "ESP","Spain","T-SEA-CAB","Coastal shipping (national transport)","2015","2015","TONNEKM","Tonnes-kilometres","6","Millions",,,44536,,
 "ESP","Spain","T-SEA-CAB","Coastal shipping (national transport)","2016","2016","TONNEKM","Tonnes-kilometres","6","Millions",,,47488,,
 "ESP","Spain","T-SEA-CAB","Coastal shipping (national transport)","2017","2017","TONNEKM","Tonnes-kilometres","6","Millions",,,49698,,
-"ESP","Spain","T-SEA-CAB","Coastal shipping (national transport)","2018","2018","TONNEKM","Tonnes-kilometres","6","Millions",,,50246,"P","Provisional value"
+"ESP","Spain","T-SEA-CAB","Coastal shipping (national transport)","2018","2018","TONNEKM","Tonnes-kilometres","6","Millions",,,50293,,
+"ESP","Spain","T-SEA-CAB","Coastal shipping (national transport)","2019","2019","TONNEKM","Tonnes-kilometres","6","Millions",,,55716,"P","Provisional value"
 "DEU","Germany","T-SEA-CAB","Coastal shipping (national transport)","1970","1970","TONNEKM","Tonnes-kilometres","6","Millions",,,899,,
 "DEU","Germany","T-SEA-CAB","Coastal shipping (national transport)","1971","1971","TONNEKM","Tonnes-kilometres","6","Millions",,,937,,
 "DEU","Germany","T-SEA-CAB","Coastal shipping (national transport)","1972","1972","TONNEKM","Tonnes-kilometres","6","Millions",,,933,,
@@ -1101,13 +1001,16 @@
 "NOR","Norway","T-SEA-CAB","Coastal shipping (national transport)","2007","2007","TONNEKM","Tonnes-kilometres","6","Millions",,,23690,,
 "NOR","Norway","T-SEA-CAB","Coastal shipping (national transport)","2008","2008","TONNEKM","Tonnes-kilometres","6","Millions",,,22859,,
 "NOR","Norway","T-SEA-CAB","Coastal shipping (national transport)","2009","2009","TONNEKM","Tonnes-kilometres","6","Millions",,,22512,"B","Break"
-"NOR","Norway","T-SEA-CAB","Coastal shipping (national transport)","2010","2010","TONNEKM","Tonnes-kilometres","6","Millions",,,21463,,
-"NOR","Norway","T-SEA-CAB","Coastal shipping (national transport)","2011","2011","TONNEKM","Tonnes-kilometres","6","Millions",,,23625,,
-"NOR","Norway","T-SEA-CAB","Coastal shipping (national transport)","2012","2012","TONNEKM","Tonnes-kilometres","6","Millions",,,25642,,
-"NOR","Norway","T-SEA-CAB","Coastal shipping (national transport)","2013","2013","TONNEKM","Tonnes-kilometres","6","Millions",,,22649,,
-"NOR","Norway","T-SEA-CAB","Coastal shipping (national transport)","2014","2014","TONNEKM","Tonnes-kilometres","6","Millions",,,21941,,
-"NOR","Norway","T-SEA-CAB","Coastal shipping (national transport)","2015","2015","TONNEKM","Tonnes-kilometres","6","Millions",,,23899,,
-"NOR","Norway","T-SEA-CAB","Coastal shipping (national transport)","2016","2016","TONNEKM","Tonnes-kilometres","6","Millions",,,24340,,
+"NOR","Norway","T-SEA-CAB","Coastal shipping (national transport)","2010","2010","TONNEKM","Tonnes-kilometres","6","Millions",,,21146,,
+"NOR","Norway","T-SEA-CAB","Coastal shipping (national transport)","2011","2011","TONNEKM","Tonnes-kilometres","6","Millions",,,22455,,
+"NOR","Norway","T-SEA-CAB","Coastal shipping (national transport)","2012","2012","TONNEKM","Tonnes-kilometres","6","Millions",,,24487,,
+"NOR","Norway","T-SEA-CAB","Coastal shipping (national transport)","2013","2013","TONNEKM","Tonnes-kilometres","6","Millions",,,23281,,
+"NOR","Norway","T-SEA-CAB","Coastal shipping (national transport)","2014","2014","TONNEKM","Tonnes-kilometres","6","Millions",,,24468,,
+"NOR","Norway","T-SEA-CAB","Coastal shipping (national transport)","2015","2015","TONNEKM","Tonnes-kilometres","6","Millions",,,26563,,
+"NOR","Norway","T-SEA-CAB","Coastal shipping (national transport)","2016","2016","TONNEKM","Tonnes-kilometres","6","Millions",,,22329,,
+"NOR","Norway","T-SEA-CAB","Coastal shipping (national transport)","2017","2017","TONNEKM","Tonnes-kilometres","6","Millions",,,24294,,
+"NOR","Norway","T-SEA-CAB","Coastal shipping (national transport)","2018","2018","TONNEKM","Tonnes-kilometres","6","Millions",,,24010,,
+"NOR","Norway","T-SEA-CAB","Coastal shipping (national transport)","2019","2019","TONNEKM","Tonnes-kilometres","6","Millions",,,23058,,
 "ITA","Italy","T-SEA-CAB","Coastal shipping (national transport)","1980","1980","TONNEKM","Tonnes-kilometres","6","Millions",,,31112,,
 "ITA","Italy","T-SEA-CAB","Coastal shipping (national transport)","1981","1981","TONNEKM","Tonnes-kilometres","6","Millions",,,28205,,
 "ITA","Italy","T-SEA-CAB","Coastal shipping (national transport)","1982","1982","TONNEKM","Tonnes-kilometres","6","Millions",,,28613,,
@@ -1143,9 +1046,11 @@
 "ITA","Italy","T-SEA-CAB","Coastal shipping (national transport)","2012","2012","TONNEKM","Tonnes-kilometres","6","Millions",,,50287,"E","Estimated value"
 "ITA","Italy","T-SEA-CAB","Coastal shipping (national transport)","2013","2013","TONNEKM","Tonnes-kilometres","6","Millions",,,49112,"E","Estimated value"
 "ITA","Italy","T-SEA-CAB","Coastal shipping (national transport)","2014","2014","TONNEKM","Tonnes-kilometres","6","Millions",,,52867,"E","Estimated value"
-"ITA","Italy","T-SEA-CAB","Coastal shipping (national transport)","2015","2015","TONNEKM","Tonnes-kilometres","6","Millions",,,51179,"E","Estimated value"
+"ITA","Italy","T-SEA-CAB","Coastal shipping (national transport)","2015","2015","TONNEKM","Tonnes-kilometres","6","Millions",,,51145,"E","Estimated value"
 "ITA","Italy","T-SEA-CAB","Coastal shipping (national transport)","2016","2016","TONNEKM","Tonnes-kilometres","6","Millions",,,56713,"E","Estimated value"
-"ITA","Italy","T-SEA-CAB","Coastal shipping (national transport)","2017","2017","TONNEKM","Tonnes-kilometres","6","Millions",,,58098,"E","Estimated value"
+"ITA","Italy","T-SEA-CAB","Coastal shipping (national transport)","2017","2017","TONNEKM","Tonnes-kilometres","6","Millions",,,60005,"E","Estimated value"
+"ITA","Italy","T-SEA-CAB","Coastal shipping (national transport)","2018","2018","TONNEKM","Tonnes-kilometres","6","Millions",,,64854,"E","Estimated value"
+"ITA","Italy","T-SEA-CAB","Coastal shipping (national transport)","2019","2019","TONNEKM","Tonnes-kilometres","6","Millions",,,68946,"E","Estimated value"
 "JPN","Japan","T-SEA-CAB","Coastal shipping (national transport)","1970","1970","TONNEKM","Tonnes-kilometres","6","Millions",,,151243,,
 "JPN","Japan","T-SEA-CAB","Coastal shipping (national transport)","1971","1971","TONNEKM","Tonnes-kilometres","6","Millions",,,157026,,
 "JPN","Japan","T-SEA-CAB","Coastal shipping (national transport)","1972","1972","TONNEKM","Tonnes-kilometres","6","Millions",,,175873,,
@@ -1194,54 +1099,8 @@
 "JPN","Japan","T-SEA-CAB","Coastal shipping (national transport)","2015","2015","TONNEKM","Tonnes-kilometres","6","Millions",,,180381,,
 "JPN","Japan","T-SEA-CAB","Coastal shipping (national transport)","2016","2016","TONNEKM","Tonnes-kilometres","6","Millions",,,180438,,
 "JPN","Japan","T-SEA-CAB","Coastal shipping (national transport)","2017","2017","TONNEKM","Tonnes-kilometres","6","Millions",,,180934,,
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","1970","1970","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","1971","1971","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","1972","1972","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","1973","1973","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","1974","1974","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","1975","1975","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","1976","1976","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","1977","1977","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","1978","1978","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","1979","1979","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","1980","1980","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","1981","1981","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","1982","1982","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","1983","1983","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","1984","1984","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","1985","1985","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","1986","1986","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","1987","1987","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","1988","1988","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","1989","1989","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","1990","1990","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","1991","1991","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","1992","1992","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","1993","1993","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","1994","1994","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","1995","1995","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","1996","1996","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","1997","1997","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","1998","1998","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","1999","1999","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","2000","2000","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","2001","2001","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","2002","2002","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","2003","2003","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","2004","2004","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","2005","2005","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","2006","2006","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","2007","2007","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","2008","2008","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","2009","2009","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","2010","2010","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","2011","2011","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","2012","2012","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","2013","2013","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","2014","2014","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","2015","2015","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","2016","2016","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
-"SVN","Slovenia","T-SEA-CAB","Coastal shipping (national transport)","2017","2017","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"JPN","Japan","T-SEA-CAB","Coastal shipping (national transport)","2018","2018","TONNEKM","Tonnes-kilometres","6","Millions",,,179089,,
+"JPN","Japan","T-SEA-CAB","Coastal shipping (national transport)","2019","2019","TONNEKM","Tonnes-kilometres","6","Millions",,,169680,,
 "AUS","Australia","T-SEA-CAB","Coastal shipping (national transport)","1971","1971","TONNEKM","Tonnes-kilometres","6","Millions",,,72000,,
 "AUS","Australia","T-SEA-CAB","Coastal shipping (national transport)","1972","1972","TONNEKM","Tonnes-kilometres","6","Millions",,,83200,,
 "AUS","Australia","T-SEA-CAB","Coastal shipping (national transport)","1973","1973","TONNEKM","Tonnes-kilometres","6","Millions",,,89500,,
@@ -1336,6 +1195,9 @@
 "LUX","Luxembourg","T-SEA-CAB","Coastal shipping (national transport)","2014","2014","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "LUX","Luxembourg","T-SEA-CAB","Coastal shipping (national transport)","2015","2015","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "LUX","Luxembourg","T-SEA-CAB","Coastal shipping (national transport)","2016","2016","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"LUX","Luxembourg","T-SEA-CAB","Coastal shipping (national transport)","2017","2017","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"LUX","Luxembourg","T-SEA-CAB","Coastal shipping (national transport)","2018","2018","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"LUX","Luxembourg","T-SEA-CAB","Coastal shipping (national transport)","2019","2019","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "MKD","North Macedonia","T-SEA-CAB","Coastal shipping (national transport)","1970","1970","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "MKD","North Macedonia","T-SEA-CAB","Coastal shipping (national transport)","1971","1971","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "MKD","North Macedonia","T-SEA-CAB","Coastal shipping (national transport)","1972","1972","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
@@ -1385,21 +1247,22 @@
 "MKD","North Macedonia","T-SEA-CAB","Coastal shipping (national transport)","2016","2016","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "MKD","North Macedonia","T-SEA-CAB","Coastal shipping (national transport)","2017","2017","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "MKD","North Macedonia","T-SEA-CAB","Coastal shipping (national transport)","2018","2018","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"MKD","North Macedonia","T-SEA-CAB","Coastal shipping (national transport)","2019","2019","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "CHN","China","T-SEA-CAB","Coastal shipping (national transport)","1978","1978","TONNEKM","Tonnes-kilometres","6","Millions",,,248700,,
 "CHN","China","T-SEA-CAB","Coastal shipping (national transport)","1980","1980","TONNEKM","Tonnes-kilometres","6","Millions",,,353200,,
 "CHN","China","T-SEA-CAB","Coastal shipping (national transport)","1985","1985","TONNEKM","Tonnes-kilometres","6","Millions",,,532900,,
-"CHN","China","T-SEA-CAB","Coastal shipping (national transport)","1990","1990","TONNEKM","Tonnes-kilometres","6","Millions",,,8141,,
-"CHN","China","T-SEA-CAB","Coastal shipping (national transport)","1991","1991","TONNEKM","Tonnes-kilometres","6","Millions",,,8990,,
-"CHN","China","T-SEA-CAB","Coastal shipping (national transport)","1992","1992","TONNEKM","Tonnes-kilometres","6","Millions",,,9034,,
-"CHN","China","T-SEA-CAB","Coastal shipping (national transport)","1993","1993","TONNEKM","Tonnes-kilometres","6","Millions",,,9134,,
-"CHN","China","T-SEA-CAB","Coastal shipping (national transport)","1994","1994","TONNEKM","Tonnes-kilometres","6","Millions",,,10268,,
-"CHN","China","T-SEA-CAB","Coastal shipping (national transport)","1995","1995","TONNEKM","Tonnes-kilometres","6","Millions",,,11938,,
-"CHN","China","T-SEA-CAB","Coastal shipping (national transport)","1996","1996","TONNEKM","Tonnes-kilometres","6","Millions",,,11254,,
-"CHN","China","T-SEA-CAB","Coastal shipping (national transport)","1997","1997","TONNEKM","Tonnes-kilometres","6","Millions",,,14875,,
-"CHN","China","T-SEA-CAB","Coastal shipping (national transport)","1998","1998","TONNEKM","Tonnes-kilometres","6","Millions",,,14920,,
-"CHN","China","T-SEA-CAB","Coastal shipping (national transport)","1999","1999","TONNEKM","Tonnes-kilometres","6","Millions",,,17014,,
-"CHN","China","T-SEA-CAB","Coastal shipping (national transport)","2000","2000","TONNEKM","Tonnes-kilometres","6","Millions",,,17073,,
-"CHN","China","T-SEA-CAB","Coastal shipping (national transport)","2001","2001","TONNEKM","Tonnes-kilometres","6","Millions",,,20873,,
+"CHN","China","T-SEA-CAB","Coastal shipping (national transport)","1990","1990","TONNEKM","Tonnes-kilometres","6","Millions",,,814100,,
+"CHN","China","T-SEA-CAB","Coastal shipping (national transport)","1991","1991","TONNEKM","Tonnes-kilometres","6","Millions",,,899000,,
+"CHN","China","T-SEA-CAB","Coastal shipping (national transport)","1992","1992","TONNEKM","Tonnes-kilometres","6","Millions",,,903400,,
+"CHN","China","T-SEA-CAB","Coastal shipping (national transport)","1993","1993","TONNEKM","Tonnes-kilometres","6","Millions",,,913400,,
+"CHN","China","T-SEA-CAB","Coastal shipping (national transport)","1994","1994","TONNEKM","Tonnes-kilometres","6","Millions",,,1026800,,
+"CHN","China","T-SEA-CAB","Coastal shipping (national transport)","1995","1995","TONNEKM","Tonnes-kilometres","6","Millions",,,1193800,,
+"CHN","China","T-SEA-CAB","Coastal shipping (national transport)","1996","1996","TONNEKM","Tonnes-kilometres","6","Millions",,,1125400,,
+"CHN","China","T-SEA-CAB","Coastal shipping (national transport)","1997","1997","TONNEKM","Tonnes-kilometres","6","Millions",,,1487500,,
+"CHN","China","T-SEA-CAB","Coastal shipping (national transport)","1998","1998","TONNEKM","Tonnes-kilometres","6","Millions",,,1492000,,
+"CHN","China","T-SEA-CAB","Coastal shipping (national transport)","1999","1999","TONNEKM","Tonnes-kilometres","6","Millions",,,1701400,,
+"CHN","China","T-SEA-CAB","Coastal shipping (national transport)","2000","2000","TONNEKM","Tonnes-kilometres","6","Millions",,,1707300,,
+"CHN","China","T-SEA-CAB","Coastal shipping (national transport)","2001","2001","TONNEKM","Tonnes-kilometres","6","Millions",,,2087300,,
 "CHN","China","T-SEA-CAB","Coastal shipping (national transport)","2002","2002","TONNEKM","Tonnes-kilometres","6","Millions",,,2173300,,
 "CHN","China","T-SEA-CAB","Coastal shipping (national transport)","2003","2003","TONNEKM","Tonnes-kilometres","6","Millions",,,2230500,,
 "CHN","China","T-SEA-CAB","Coastal shipping (national transport)","2004","2004","TONNEKM","Tonnes-kilometres","6","Millions",,,3225500,,
@@ -1416,6 +1279,7 @@
 "CHN","China","T-SEA-CAB","Coastal shipping (national transport)","2015","2015","TONNEKM","Tonnes-kilometres","6","Millions",,,5423600,,
 "CHN","China","T-SEA-CAB","Coastal shipping (national transport)","2016","2016","TONNEKM","Tonnes-kilometres","6","Millions",,,5807500,,
 "CHN","China","T-SEA-CAB","Coastal shipping (national transport)","2017","2017","TONNEKM","Tonnes-kilometres","6","Millions",,,5508400,,
+"CHN","China","T-SEA-CAB","Coastal shipping (national transport)","2018","2018","TONNEKM","Tonnes-kilometres","6","Millions",,,5192700,,
 "TUR","Turkey","T-SEA-CAB","Coastal shipping (national transport)","2003","2003","TONNEKM","Tonnes-kilometres","6","Millions",,,6462,,
 "TUR","Turkey","T-SEA-CAB","Coastal shipping (national transport)","2004","2004","TONNEKM","Tonnes-kilometres","6","Millions",,,7419,,
 "TUR","Turkey","T-SEA-CAB","Coastal shipping (national transport)","2005","2005","TONNEKM","Tonnes-kilometres","6","Millions",,,6480,,
@@ -1432,6 +1296,7 @@
 "TUR","Turkey","T-SEA-CAB","Coastal shipping (national transport)","2016","2016","TONNEKM","Tonnes-kilometres","6","Millions",,,19492,,
 "TUR","Turkey","T-SEA-CAB","Coastal shipping (national transport)","2017","2017","TONNEKM","Tonnes-kilometres","6","Millions",,,22087,,
 "TUR","Turkey","T-SEA-CAB","Coastal shipping (national transport)","2018","2018","TONNEKM","Tonnes-kilometres","6","Millions",,,21779,,
+"TUR","Turkey","T-SEA-CAB","Coastal shipping (national transport)","2019","2019","TONNEKM","Tonnes-kilometres","6","Millions",,,20520,,
 "SRB","Serbia, Republic of","T-SEA-CAB","Coastal shipping (national transport)","1970","1970","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "SRB","Serbia, Republic of","T-SEA-CAB","Coastal shipping (national transport)","1971","1971","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "SRB","Serbia, Republic of","T-SEA-CAB","Coastal shipping (national transport)","1972","1972","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
@@ -1480,6 +1345,8 @@
 "SRB","Serbia, Republic of","T-SEA-CAB","Coastal shipping (national transport)","2015","2015","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "SRB","Serbia, Republic of","T-SEA-CAB","Coastal shipping (national transport)","2016","2016","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "SRB","Serbia, Republic of","T-SEA-CAB","Coastal shipping (national transport)","2017","2017","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"SRB","Serbia, Republic of","T-SEA-CAB","Coastal shipping (national transport)","2018","2018","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"SRB","Serbia, Republic of","T-SEA-CAB","Coastal shipping (national transport)","2019","2019","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "HUN","Hungary","T-SEA-CAB","Coastal shipping (national transport)","1970","1970","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "HUN","Hungary","T-SEA-CAB","Coastal shipping (national transport)","1971","1971","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "HUN","Hungary","T-SEA-CAB","Coastal shipping (national transport)","1972","1972","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
@@ -1529,6 +1396,7 @@
 "HUN","Hungary","T-SEA-CAB","Coastal shipping (national transport)","2016","2016","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "HUN","Hungary","T-SEA-CAB","Coastal shipping (national transport)","2017","2017","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "HUN","Hungary","T-SEA-CAB","Coastal shipping (national transport)","2018","2018","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"HUN","Hungary","T-SEA-CAB","Coastal shipping (national transport)","2019","2019","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "CZE","Czech Republic","T-SEA-CAB","Coastal shipping (national transport)","1970","1970","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "CZE","Czech Republic","T-SEA-CAB","Coastal shipping (national transport)","1971","1971","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "CZE","Czech Republic","T-SEA-CAB","Coastal shipping (national transport)","1972","1972","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
@@ -1578,3 +1446,7 @@
 "CZE","Czech Republic","T-SEA-CAB","Coastal shipping (national transport)","2016","2016","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "CZE","Czech Republic","T-SEA-CAB","Coastal shipping (national transport)","2017","2017","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
 "CZE","Czech Republic","T-SEA-CAB","Coastal shipping (national transport)","2018","2018","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"CZE","Czech Republic","T-SEA-CAB","Coastal shipping (national transport)","2019","2019","TONNEKM","Tonnes-kilometres","6","Millions",,,,"M","Missing value; data cannot exist"
+"CHL","Chile","T-SEA-CAB","Coastal shipping (national transport)","2017","2017","TONNEKM","Tonnes-kilometres","6","Millions",,,10005,"E","Estimated value"
+"CHL","Chile","T-SEA-CAB","Coastal shipping (national transport)","2018","2018","TONNEKM","Tonnes-kilometres","6","Millions",,,13658,"E","Estimated value"
+"CHL","Chile","T-SEA-CAB","Coastal shipping (national transport)","2019","2019","TONNEKM","Tonnes-kilometres","6","Millions",,,12442,"E","Estimated value"
