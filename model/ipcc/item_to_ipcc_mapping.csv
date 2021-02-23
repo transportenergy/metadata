@@ -1,0 +1,142 @@
+IPCC_Category,IPCC_Variable,IPCC_Unit,Variable,Unit,Service,Mode,Vehicle_type,Technology,Fuel,Liquid_fuel_type,Unit_conv
+Emissions,Emissions|BC|Energy|Demand|Transportation|Freight,Mt BC/yr,BC Emissions,10^3 t BC / yr,Freight,All,All,All,All,All,1000
+Emissions,Emissions|BC|Energy|Demand|Transportation|Passenger,Mt BC/yr,BC Emissions,10^3 t BC / yr,Passenger,All,All,All,All,All,1000
+Emissions,Emissions|CH4|Energy|Demand|Transportation|Freight,Mt CH4/yr,,,,,,,,,
+Emissions,Emissions|CH4|Energy|Demand|Transportation|Passenger,Mt CH4/yr,,,,,,,,,
+Emissions,Emissions|CO2|Energy|Demand|Transportation,Mt CO2/yr,CO2 Emissions (ttw),10^6 t CO2 / yr,All,All,All,All,All,All,1
+Emissions,Emissions|CO2|Energy|Demand|Transportation|Aviation,Mt CO2/yr,CO2 Emissions (ttw),10^6 t CO2 / yr,All,Air,All,All,All,All,1
+Emissions,Emissions|CO2|Energy|Demand|Transportation|Aviation|Freight,Mt CO2/yr,,,,,,,,,
+Emissions,Emissions|CO2|Energy|Demand|Transportation|Aviation|Passenger,Mt CO2/yr,,,,,,,,,
+Emissions,Emissions|CO2|Energy|Demand|Transportation|Freight,Mt CO2/yr,CO2 Emissions (ttw),10^6 t CO2 / yr,Freight,All,All,All,All,All,1
+Emissions,Emissions|CO2|Energy|Demand|Transportation|Maritime,Mt CO2/yr,CO2 Emissions (ttw),10^6 t CO2 / yr,All,Ship,All,All,All,All,1
+Emissions,Emissions|CO2|Energy|Demand|Transportation|Maritime|Freight,Mt CO2/yr,,,,,,,,,
+Emissions,Emissions|CO2|Energy|Demand|Transportation|Maritime|Passenger,Mt CO2/yr,,,,,,,,,
+Emissions,Emissions|CO2|Energy|Demand|Transportation|Passenger,Mt CO2/yr,CO2 Emissions (ttw),10^6 t CO2 / yr,Passenger,All,All,All,All,All,1
+Emissions,Emissions|CO2|Energy|Demand|Transportation|Rail,Mt CO2/yr,CO2 Emissions (ttw),10^6 t CO2 / yr,All,Rail,All,All,All,All,1
+Emissions,Emissions|CO2|Energy|Demand|Transportation|Rail|Freight,Mt CO2/yr,CO2 Emissions (ttw),10^6 t CO2 / yr,Freight,Rail,All,All,All,All,1
+Emissions,Emissions|CO2|Energy|Demand|Transportation|Rail|Passenger,Mt CO2/yr,CO2 Emissions (ttw),10^6 t CO2 / yr,Passenger,Rail,All,All,All,All,1
+Emissions,Emissions|CO2|Energy|Demand|Transportation|Road,Mt CO2/yr,CO2 Emissions (ttw),10^6 t CO2 / yr,All,Road,All,All,All,All,1
+Emissions,Emissions|CO2|Energy|Demand|Transportation|Road|Freight,Mt CO2/yr,CO2 Emissions (ttw),10^6 t CO2 / yr,Freight,Road,All,All,All,All,1
+Emissions,Emissions|CO2|Energy|Demand|Transportation|Road|Passenger,Mt CO2/yr,CO2 Emissions (ttw),10^6 t CO2 / yr,Passenger,Road,All,All,All,All,1
+Emissions,Emissions|CO2|Energy|Demand|Transportation|Road|Passenger|2W&3W,Mt CO2/yr,CO2 Emissions (ttw),10^6 t CO2 / yr,Passenger,Road,2W+3W,All,All,All,1
+Emissions,Emissions|CO2|Energy|Demand|Transportation|Road|Passenger|Bus,Mt CO2/yr,CO2 Emissions (ttw),10^6 t CO2 / yr,Passenger,Road,Bus,All,All,All,1
+Emissions,Emissions|CO2|Energy|Demand|Transportation|Road|Passenger|LDV,Mt CO2/yr,CO2 Emissions (ttw),10^6 t CO2 / yr,Passenger,Road,LDV,All,All,All,1
+Emissions,Emissions|CO|Energy|Demand|Transportation|Freight,Mt CO/yr,,,,,,,,,
+Emissions,Emissions|CO|Energy|Demand|Transportation|Passenger,Mt CO/yr,,,,,,,,,
+Emissions,Emissions|N2O|Energy|Demand|Transportation,Mt N2O/yr,,,,,,,,,
+Emissions,Emissions|N2O|Energy|Demand|Transportation|Freight,Mt N2O/yr,,,,,,,,,
+Emissions,Emissions|N2O|Energy|Demand|Transportation|Passenger,Mt N2O/yr,,,,,,,,,
+Emissions,Emissions|NH3|Energy|Demand|Transportation|Freight,Mt NH3/yr,,,,,,,,,
+Emissions,Emissions|NH3|Energy|Demand|Transportation|Passenger,Mt NH3/yr,,,,,,,,,
+Emissions,Emissions|NOx|Energy|Demand|Transportation|Freight,Mt NOx/yr,NOx Emissions,10^3 t BC / yr,Freight,All,All,All,All,All,1000
+Emissions,Emissions|NOx|Energy|Demand|Transportation|Passenger,Mt NOx/yr,NOx Emissions,10^3 t BC / yr,Passenger,All,All,All,All,All,1000
+Emissions,Emissions|OC|Energy|Demand|Transportation|Freight,Mt OC/yr,,,,,,,,,
+Emissions,Emissions|OC|Energy|Demand|Transportation|Passenger,Mt OC/yr,,,,,,,,,
+Emissions,Emissions|Sulfur|Energy|Demand|Transportation|Freight,Mt SO2/yr,,,,,,,,,
+Emissions,Emissions|Sulfur|Energy|Demand|Transportation|Passenger,Mt SO2/yr,,,,,,,,,
+Emissions,Emissions|VOC|Energy|Demand|Transportation|Freight,Mt VOC/yr,,,,,,,,,
+Emissions,Emissions|VOC|Energy|Demand|Transportation|Passenger,Mt VOC/yr,,,,,,,,,
+Energy,Energy Service|Transportation|Aviation,bn vkm/yr,Vehicle Activity,10^9 vehicle-km / yr,All,Air,All,All,All,All,1
+Energy,Energy Service|Transportation|Freight,bn tkm/yr,Freight Activity,10^9 tonne-km / yr,All,All,All,All,All,All,1
+Energy,Energy Service|Transportation|Freight|Aviation,bn tkm/yr,,,,,,,,,
+Energy,Energy Service|Transportation|Freight|International Shipping,bn tkm/yr,Freight Activity,10^9 tonne-km / yr,All,Ship,All,All,All,All,1
+Energy,Energy Service|Transportation|Freight|Navigation,bn tkm/yr,,,,,,,,,
+Energy,Energy Service|Transportation|Freight|Other,bn tkm/yr,,,,,,,,,
+Energy,Energy Service|Transportation|Freight|Railways,bn tkm/yr,Freight Activity,10^9 tonne-km / yr,All,Rail,All,All,All,All,1
+Energy,Energy Service|Transportation|Freight|Road,bn tkm/yr,Freight Activity,10^9 tonne-km / yr,All,Road,All,All,All,All,1
+Energy,Energy Service|Transportation|Navigation,bn vkm/yr,,,,,,,,,
+Energy,Energy Service|Transportation|Passenger,bn pkm/yr,Passenger Activity,10^9 passenger-km / yr,All,All,All,All,All,All,1
+Energy,Energy Service|Transportation|Passenger|Aviation,bn pkm/yr,Passenger Activity,10^9 passenger-km / yr,All,Air,All,All,All,All,1
+Energy,Energy Service|Transportation|Passenger|Bicycling and Walking,bn pkm/yr,,,,,,,,,
+Energy,Energy Service|Transportation|Passenger|Navigation,bn pkm/yr,,,,,,,,,
+Energy,Energy Service|Transportation|Passenger|Other,bn pkm/yr,,,,,,,,,
+Energy,Energy Service|Transportation|Passenger|Railways,bn pkm/yr,Passenger Activity,10^9 passenger-km / yr,Passenger,Rail,All,All,All,All,1
+Energy,Energy Service|Transportation|Passenger|Road,bn pkm/yr,Passenger Activity,10^9 passenger-km / yr,Passenger,Road,All,All,All,All,1
+Energy,Energy Service|Transportation|Passenger|Road|2W and 3W,bn pkm/yr,Passenger Activity,10^9 passenger-km / yr,Passenger,Road,2W+3W,All,All,All,1
+Energy,Energy Service|Transportation|Passenger|Road|Bus,bn pkm/yr,Passenger Activity,10^9 passenger-km / yr,Passenger,Road,Bus,All,All,All,1
+Energy,Energy Service|Transportation|Passenger|Road|LDV,bn pkm/yr,Passenger Activity,10^9 passenger-km / yr,Passenger,Road,LDV,All,All,All,1
+Energy,Energy Service|Transportation|Rail,bn vkm/yr,Vehicle Activity,10^9 vehicle-km / yr,All,Rail,All,All,All,All,1
+Energy,Energy Service|Transportation|Road,bn vkm/yr,Vehicle Activity,10^9 vehicle-km / yr,All,Road,All,All,All,All,1
+Energy,Final Energy|Transportation,EJ/yr,Energy,PJ / yr,All,All,All,All,All,All,0.001
+Energy,Final Energy|Transportation|Aviation,EJ/yr,Energy,PJ / yr,All,Air,All,All,All,All,0.001
+Energy,Final Energy|Transportation|Aviation|Freight,EJ/yr,,,,,,,,,
+Energy,Final Energy|Transportation|Aviation|Passenger,EJ/yr,,,,,,,,,
+Energy,Final Energy|Transportation|Electricity,EJ/yr,Energy,PJ / yr,All,All,All,Electric,Electricity,NA,0.001
+Energy,Final Energy|Transportation|Freight,EJ/yr,Energy,PJ / yr,Freight,All,All,All,All,All,0.001
+Energy,Final Energy|Transportation|Freight|Electricity,EJ/yr,Energy,PJ / yr,Freight,All,All,Electric,Electricity,NA,0.001
+Energy,Final Energy|Transportation|Freight|Gases,EJ/yr,,,,,,,,,
+Energy,Final Energy|Transportation|Freight|Gases|Bioenergy,EJ/yr,,,,,,,,,
+Energy,Final Energy|Transportation|Freight|Gases|Fossil,EJ/yr,Energy,PJ / yr,Freight,All,All,Natural gas,Natural gas,NA,0.001
+Energy,Final Energy|Transportation|Freight|Hydrogen,EJ/yr,Energy,PJ / yr,Freight,All,All,Hydrogen,Hydrogen,NA,0.001
+Energy,Final Energy|Transportation|Freight|Liquids,EJ/yr,Energy,PJ / yr,Freight,All,All,Liquid,Liquid,All,0.001
+Energy,Final Energy|Transportation|Freight|Liquids|Bioenergy,EJ/yr,Energy,PJ / yr,Freight,All,All,Liquid,Liquid,Liquid biofuels,0.001
+Energy,Final Energy|Transportation|Freight|Liquids|Biomass,EJ/yr,,,,,,,,,
+Energy,Final Energy|Transportation|Freight|Liquids|Fossil synfuel,EJ/yr,Energy,PJ / yr,Freight,All,All,Liquid,Liquid,Synthetic fuels,0.001
+Energy,Final Energy|Transportation|Freight|Liquids|Oil,EJ/yr,Energy,PJ / yr,Freight,All,All,Liquid,Liquid,Petroleum fuels,0.001
+Energy,Final Energy|Transportation|Freight|Other,EJ/yr,Energy,PJ / yr,Freight,All,All,Coal,Coal,NA,0.001
+Energy,Final Energy|Transportation|Gases,EJ/yr,,,,,,,,,
+Energy,Final Energy|Transportation|Gases|Bioenergy,EJ/yr,,,,,,,,,
+Energy,Final Energy|Transportation|Gases|Fossil,EJ/yr,Energy,PJ / yr,All,All,All,Natural gas,Natural gas,NA,0.001
+Energy,Final Energy|Transportation|Hydrogen,EJ/yr,Energy,PJ / yr,All,All,All,Hydrogen,Hydrogen,NA,0.001
+Energy,Final Energy|Transportation|Liquids,EJ/yr,Energy,PJ / yr,All,All,All,Liquid,Liquid,All,0.001
+Energy,Final Energy|Transportation|Liquids|Bioenergy,EJ/yr,Energy,PJ / yr,All,All,All,Liquid,Liquid,Liquid biofuels,0.001
+Energy,Final Energy|Transportation|Liquids|Biomass,EJ/yr,,,,,,,,,
+Energy,Final Energy|Transportation|Liquids|Coal,EJ/yr,,,,,,,,,
+Energy,Final Energy|Transportation|Liquids|Fossil synfuel,EJ/yr,Energy,PJ / yr,All,All,All,Liquid,Liquid,Synthetic fuels,0.001
+Energy,Final Energy|Transportation|Liquids|Natural Gas,EJ/yr,,,,,,,,,
+Energy,Final Energy|Transportation|Liquids|Oil,EJ/yr,Energy,PJ / yr,All,All,All,Liquid,Liquid,Petroleum fuels,0.001
+Energy,Final Energy|Transportation|Maritime,EJ/yr,Energy,PJ / yr,All,Ship,All,All,All,All,0.001
+Energy,Final Energy|Transportation|Other,EJ/yr,,,,,,,,,
+Energy,Final Energy|Transportation|Passenger,EJ/yr,Energy,PJ / yr,Passenger,All,All,All,All,All,0.001
+Energy,Final Energy|Transportation|Passenger|Electricity,EJ/yr,Energy,PJ / yr,Passenger,All,All,Electric,Electricity,NA,0.001
+Energy,Final Energy|Transportation|Passenger|Gases,EJ/yr,,,,,,,,,
+Energy,Final Energy|Transportation|Passenger|Gases|Bioenergy,EJ/yr,,,,,,,,,
+Energy,Final Energy|Transportation|Passenger|Gases|Fossil,EJ/yr,Energy,PJ / yr,Passenger,All,All,Natural gas,Natural gas,NA,0.001
+Energy,Final Energy|Transportation|Passenger|Hydrogen,EJ/yr,Energy,PJ / yr,Passenger,All,All,Hydrogen,Hydrogen,NA,0.001
+Energy,Final Energy|Transportation|Passenger|Liquids,EJ/yr,Energy,PJ / yr,Passenger,Air,All,Liquid,Liquid,All,0.001
+Energy,Final Energy|Transportation|Passenger|Liquids|Bioenergy,EJ/yr,Energy,PJ / yr,Passenger,Air,All,Liquid,Liquid,Liquid biofuels,0.001
+Energy,Final Energy|Transportation|Passenger|Liquids|Biomass,EJ/yr,,,,,,,,,
+Energy,Final Energy|Transportation|Passenger|Liquids|Fossil synfuel,EJ/yr,Energy,PJ / yr,Passenger,Air,All,Liquid,Liquid,Synthetic fuels,0.001
+Energy,Final Energy|Transportation|Passenger|Liquids|Oil,EJ/yr,Energy,PJ / yr,Passenger,Air,All,Liquid,Liquid,Petroleum fuels,0.001
+Energy,Final Energy|Transportation|Passenger|Other,EJ/yr,Energy,PJ / yr,Passenger,All,All,Coal,Coal,NA,0.001
+Energy,Final Energy|Transportation|Rail,EJ/yr,Energy,PJ / yr,All,Rail,All,All,All,All,0.001
+Energy,Final Energy|Transportation|Rail|Freight,EJ/yr,Energy,PJ / yr,Freight,Rail,All,All,All,All,0.001
+Energy,Final Energy|Transportation|Rail|Passenger,EJ/yr,Energy,PJ / yr,Passenger,Rail,All,All,All,All,0.001
+Energy,Final Energy|Transportation|Road|Freight,EJ/yr,Energy,PJ / yr,Freight,Road,All,All,All,All,0.001
+Energy,Final Energy|Transportation|Road|Freight|Electric,EJ/yr,Energy,PJ / yr,Freight,Road,All,Electric,Electricity,NA,0.001
+Energy,Final Energy|Transportation|Road|Freight|FC,EJ/yr,Energy,PJ / yr,Freight,Road,All,Hydrogen,Hydrogen,NA,0.001
+Energy,Final Energy|Transportation|Road|Freight|ICE,EJ/yr,Energy,PJ / yr,Freight,Road,All,Liquid,Liquid,All,0.001
+Energy,Final Energy|Transportation|Road|Passenger,EJ/yr,Energy,PJ / yr,Passenger,Road,All,All,All,All,0.001
+Energy,Final Energy|Transportation|Road|Passenger|2W&3W,EJ/yr,Energy,PJ / yr,Passenger,Road,2W+3W,All,All,All,0.001
+Investment,Investment|Energy Demand|Transportation|Freight|Aviation,billion US$2010/yr OR local currency,,,,,,,,,
+Investment,Investment|Energy Demand|Transportation|Freight|Railways,billion US$2010/yr OR local currency,,,,,,,,,
+Investment,Investment|Energy Demand|Transportation|Passenger|Aviation,billion US$2010/yr OR local currency,,,,,,,,,
+Investment,Investment|Energy Demand|Transportation|Passenger|Railways,billion US$2010/yr OR local currency,,,,,,,,,
+Investment,Investment|Infrastructure|Transportation|Aviation,"billion US$2010/yr OR local currency	",,,,,,,,,
+Investment,Investment|Infrastructure|Transportation|Maritime,"billion US$2010/yr OR local currency	",,,,,,,,,
+Investment,Investment|Infrastructure|Transportation|Rail,"billion US$2010/yr OR local currency	",,,,,,,,,
+Investment,Investment|Infrastructure|Transportation|Road,"billion US$2010/yr OR local currency	",,,,,,,,,
+Transport,Capacity|Transportation|Aviation|Freight,billion tkm/yr,,,,,,,,,
+Transport,Capacity|Transportation|Aviation|Passenger,billion pkm/yr,,,,,,,,,
+Transport,Capacity|Transportation|Maritime|Freight,billion tkm/yr,,,,,,,,,
+Transport,Capacity|Transportation|Maritime|Passenger,billion pkm/yr,,,,,,,,,
+Transport,Capacity|Transportation|Rail|Freight,billion tkm/yr,,,,,,,,,
+Transport,Capacity|Transportation|Rail|Passenger,billion pkm/yr,,,,,,,,,
+Transport,Capacity|Transportation|Road|Freight,billion tkm/yr,,,,,,,,,
+Transport,Capacity|Transportation|Road|Passenger,billion pkm/yr,,,,,,,,,
+Transport,Transport|Stock|Aviation,million vehicles,,,,,,,,,
+Transport,Transport|Stock|Aviation|Freight,million vehicles,,,,,,,,,
+Transport,Transport|Stock|Aviation|Passenger,million vehicles,,,,,,,,,
+Transport,Transport|Stock|Maritime,million vehicles,,,,,,,,,
+Transport,Transport|Stock|Maritime|Freight,million vehicles,,,,,,,,,
+Transport,Transport|Stock|Rail,million vehicles,,,,,,,,,
+Transport,Transport|Stock|Rail|Freight,million vehicles,,,,,,,,,
+Transport,Transport|Stock|Rail|Passenger,million vehicles,,,,,,,,,
+Transport,Transport|Stock|Road,million vehicles,,,,,,,,,
+Transport,Transport|Stock|Road|Freight,million vehicles,Stock,10^6 vehicle,Freight,Road,All,All,All,All,1
+Transport,Transport|Stock|Road|Passenger,million vehicles,Stock,10^6 vehicle,Passenger,Road,All,All,All,All,1
+Transport,Transport|Stock|Road|Passenger|2W&3W,million vehicles,Stock,10^6 vehicle,Passenger,Road,2W+3W,All,All,All,1
+Transport,Transport|Stock|Road|Passenger|Bus,million vehicles,Stock,10^6 vehicle,Passenger,Road,Bus,All,All,All,1
+Transport,Transport|Stock|Road|Passenger|LDV,million vehicles,Stock,10^6 vehicle,Passenger,Road,LDV,All,All,All,1
+Emissions,Emissions|BC|Energy|Demand|Transportation,Mt BC/yr,BC Emissions,10^3 t BC / yr,All,All,All,All,All,All,1000
+Emissions,Emissions|CH4|Energy|Demand|Transportation,Mt CH4/yr,,,,,,,,,
