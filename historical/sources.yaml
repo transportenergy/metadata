@@ -7,7 +7,6 @@ T000:
     resource_id: ITF_PASSENGER_TRANSPORT
     key: .T-PASS-TOT-INLD+T-PASS-RL-TOT+T-PASS-RD-TOT+T-PASS-RD-CAR+T-PASS-RD-BUS
     validate: false
-  active: true
 
 T001:
   name: Coastal Transport
@@ -17,7 +16,6 @@ T001:
     resource_id: ITF_GOODS_TRANSPORT
     key: .T-SEA-CAB
     validate: false
-  active: true
 
 T002:
   name: Container Transport
@@ -27,7 +25,6 @@ T002:
     resource_id: ITF_GOODS_TRANSPORT
     key: .T-CONT-RL-TEU+T-CONT-RL-TON+T-CONT-SEA-TEU+T-CONT-SEA-TON
     validate: false
-  active: true
 
 T003:
   name: Inland Freight Transport
@@ -37,12 +34,10 @@ T003:
     resource_id: ITF_GOODS_TRANSPORT
     key: .T-GOODS-TOT-INLD+T-GOODS-RL-TOT+T-GOODS-RD-TOT+T-GOODS-RD-REW+T-GOODS-RD-OWN+T-GOODS-IW-TOT+T-GOODS-PP-TOT
     validate: false
-  active: true
 
 T004:
   url: https://w3.unece.org/PXWeb2015/pxweb/en/STAT/STAT__40-TRTRANS__03-TRRoadFleet/08_en_TRRoadNewVehF_r.px/?rxid=674effaa-3926-4d2e-9d6d-abfd7dd196b8
   name: New Road Vehicle Registrations by Vehicle Category and Fuel Type
-  active: true
 
 T005:
   name: Passenger Road Vehicle Fleet and rate per thousand inhabitants by Vehicle Category
