@@ -16,7 +16,6 @@ Africa:
   - DJI
   - DZA
   - ERI
-  - ESH
   - ETH
   - GAB
   - GHA
@@ -38,14 +37,15 @@ Africa:
   - NAM
   - NER
   - NGA
-  - REU
   - RWA
   - SDN
   - SEN
   - SLE
   - SOM
+  - SSD
   - STP
   - SWZ
+  - SYC
   - TCD
   - TGO
   - TUN
@@ -89,7 +89,6 @@ EU-27:
   - FRA
   - GBR
   - GRC
-  - GRL
   - HRV
   - HUN
   - IRL
@@ -135,41 +134,28 @@ Middle East:
   - QAT
   - SAU
   - SYR
+  - TUR
   - YEM
 
 Non-EU Europe:
   countries:
   - ALB
-  - AND
   - ARM
   - AZE
   - BIH
   - BLR
   - CHE
   - CHI
-  - FRO
   - GEO
-  - GIB
-  - IMN
   - ISL
   - LIE
-  - MCO
   - MDA
   - MKD
   - MNE
   - NOR
   - SCG
-  - SHN
-  - SJM
-  - SMR
-  - SPM
   - SRB
-  - TCA
-  - TUR
   - UKR
-  - VAT
-  - WLF
-  - YUG
 
 Other Asia-Pacific:
   countries:
@@ -178,12 +164,8 @@ Other Asia-Pacific:
   - BGD
   - BRN
   - BTN
-  - CCK
-  - COK
-  - CXR
   - FJI
   - FSM
-  - GUM
   - IDN
   - KAZ
   - KGZ
@@ -192,21 +174,13 @@ Other Asia-Pacific:
   - LAO
   - LKA
   - MDV
-  - MHL
   - MMR
   - MNG
-  - MNP
   - MYS
-  - MYT
   - NCL
-  - NFK
-  - NIU
   - NPL
-  - NRU
   - NZL
   - PAK
-  - PCI
-  - PCN
   - PHL
   - PLW
   - PNG
@@ -214,14 +188,11 @@ Other Asia-Pacific:
   - PYF
   - SGP
   - SLB
-  - SYC
   - THA
   - TJK
-  - TKL
   - TKM
   - TLS
   - TON
-  - TUV
   - UZB
   - VNM
   - VUT
@@ -230,8 +201,6 @@ Other Asia-Pacific:
 Other Latin America:
   countries:
   - ABW
-  - AIA
-  - ANT
   - ARG
   - ATG
   - BHS
@@ -247,19 +216,14 @@ Other Latin America:
   - DMA
   - DOM
   - ECU
-  - FLK
-  - GLP
   - GRD
   - GTM
-  - GUF
   - GUY
   - HND
   - HTI
   - JAM
   - KNA
   - LCA
-  - MSR
-  - MTQ
   - NIC
   - PAN
   - PER
@@ -271,7 +235,6 @@ Other Latin America:
   - VCT
   - VEN
   - VGB
-  - VIR
 
 Russia:
   countries:
@@ -283,5 +246,7 @@ South Korea:
 
 U.S.:
   countries:
+  - GUM
   - PRI
   - USA
+  - VIR
