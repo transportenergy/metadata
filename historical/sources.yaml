@@ -3,37 +3,33 @@ T000:
   name: "Passenger transport: Inland passenger transport"
   fetch:
     type: SDMX
-    source: OECD
+    source: OECD_JSON
     resource_id: ITF_PASSENGER_TRANSPORT
     key: .T-PASS-TOT-INLD+T-PASS-RL-TOT+T-PASS-RD-TOT+T-PASS-RD-CAR+T-PASS-RD-BUS
-    validate: false
 
 T001:
   name: Coastal Transport
   fetch:
     type: SDMX
-    source: OECD
+    source: OECD_JSON
     resource_id: ITF_GOODS_TRANSPORT
     key: .T-SEA-CAB
-    validate: false
 
 T002:
   name: Container Transport
   fetch:
     type: SDMX
-    source: OECD
+    source: OECD_JSON
     resource_id: ITF_GOODS_TRANSPORT
     key: .T-CONT-RL-TEU+T-CONT-RL-TON+T-CONT-SEA-TEU+T-CONT-SEA-TON
-    validate: false
 
 T003:
   name: Inland Freight Transport
   fetch:
     type: SDMX
-    source: OECD
+    source: OECD_JSON
     resource_id: ITF_GOODS_TRANSPORT
     key: .T-GOODS-TOT-INLD+T-GOODS-RL-TOT+T-GOODS-RD-TOT+T-GOODS-RD-REW+T-GOODS-RD-OWN+T-GOODS-IW-TOT+T-GOODS-PP-TOT
-    validate: false
 
 T004:
   url: https://w3.unece.org/PXWeb2015/pxweb/en/STAT/STAT__40-TRTRANS__03-TRRoadFleet/08_en_TRRoadNewVehF_r.px/?rxid=674effaa-3926-4d2e-9d6d-abfd7dd196b8
